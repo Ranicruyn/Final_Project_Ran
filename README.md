@@ -14,7 +14,7 @@ As an artist myself, I also specialize in branding and promoting. I set up my ow
 ```markdown
 Original Music Examples 
 
-# The Ocean -- Hiphop/Pop
+## The Ocean -- Hiphop/Pop
 
 
 ## Shooting Star -- Dance/Deep House
@@ -22,11 +22,13 @@ Original Music Examples
 
 ### Hold Back -- Pop/Deep House
 
-Position: Composer|Producer|Sound Designer|Recording Engineer|Vocal Engineer|Mixing & Mastering Engineer
+
+Position: Composer|Producer|Recording, Mixing & Mastering Engineer
+
 
 Sound Design Examples
 
-# 'Droid X'Ads
+## 'Droid X'Ads
 
 
 ## Berklee Fashion Show (Intro)
@@ -34,7 +36,9 @@ Sound Design Examples
 
 ### Puzzler Video Game
 
+
 Position: Sound Designer|Producer|Mixing & Masstering Engineer
+
 
 [Link](url) and ![Image](src)
 ```
