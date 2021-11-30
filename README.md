@@ -14,15 +14,15 @@ As an artist myself, I also specialize in branding and promoting. I set up my ow
 ```markdown
 Original Music Examples 
 
-# The Ocean -- Hiphop / Pop
+# The Ocean -- Hiphop/Pop
 
 
-## Shooting Star -- Dance / Deep House
+## Shooting Star -- Dance/Deep House
 
 
-### Hold Back -- Pop / Deep House
+### Hold Back -- Pop/Deep House
 
-Position: Composer| Producer| Sound Designer| Recording Engineer| Vocal Engineer| Mixing & Mastering Engineer
+Position: Composer|Producer|Sound Designer|Recording Engineer|Vocal Engineer|Mixing & Mastering Engineer
 
 Sound Design Examples
 
@@ -34,7 +34,7 @@ Sound Design Examples
 
 ### Puzzler Video Game
 
-Position: Composer| Producer| Sound Designer| Recording Engineer| Vocal Engineer| Mixing & Mastering Engineer
+Position: Sound Designer|Producer|Mixing & Masstering Engineer
 
 [Link](url) and ![Image](src)
 ```
