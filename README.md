@@ -12,7 +12,7 @@ As an artist myself, I also specialize in branding and promoting. I set up my ow
 
 
 ```markdown
-Portfolio Examples 
+Original Music Examples 
 
 # The Ocean -- Hiphop / Pop
 
@@ -21,6 +21,18 @@ Portfolio Examples
 
 
 ### Hold Back -- Pop / Deep House
+
+Position: Composer| Producer| Sound Designer| Recording Engineer| Vocal Engineer| Mixing & Mastering Engineer
+
+Sound Design Examples
+
+# 'Droid X'Ads
+
+
+## Berklee Fashion Show (Intro)
+
+
+### Puzzler Video Game
 
 Position: Composer| Producer| Sound Designer| Recording Engineer| Vocal Engineer| Mixing & Mastering Engineer
 
