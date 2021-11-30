@@ -12,11 +12,15 @@ As an artist myself, I also specialize in branding and promoting. I set up my ow
 
 
 ```markdown
-Syntax highlighted code block
+Portfolio Examples 
 
-# Header 1
-## Header 2
-### Header 3
+# The Ocean -- Hiphop / Pop
+
+
+## Shooting Star -- Dance / Deep House
+
+
+### Hold Back -- Pop / Deep House
 
 - Bulleted
 - List
