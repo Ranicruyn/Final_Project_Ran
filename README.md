@@ -1,10 +1,10 @@
-## Portfolio | RAN YI
+## This is RAN YI
 
-You can use the [editor on GitHub](https://github.com/Ranicruyn/Final_Project_Ran/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and Berklee gigs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to check my spotify [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) for released songs.
 
-### Markdown
+### Who is RAN?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
