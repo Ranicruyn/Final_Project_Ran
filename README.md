@@ -22,13 +22,7 @@ Portfolio Examples
 
 ### Hold Back -- Pop / Deep House
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Position: Composer| Producer| Sound Designer| Recording Engineer| Vocal Engineer| Mixing & Mastering Engineer
 
 [Link](url) and ![Image](src)
 ```
