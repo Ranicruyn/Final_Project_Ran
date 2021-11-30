@@ -6,7 +6,10 @@ Feel free to check my spotify [Icruyn](https://open.spotify.com/artist/2Jg1j4Dtb
 
 ### Who is RAN?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a professional producer and music engineer who specialize in commercial music genre from Hip-hop, Pop to House. Logic Pro, Ableton Live, and Pro Tools are the most commonly used DAWs in my daily life. I take care of every editing of different instrument stem by using Flex Time and Flex Pitch. I utilize FabFilter Pro-Q 3, Pro-C 2, Saturn 2; Ozone Dynamic EQ, Exciter, Imager, Limiter; and popular Waves plugins to handle the processing and mixing of each stem. I utilize Melodyne, Autotune, Little AlterBoy to take care of vocal editing, and sometimes it’s also combined with using Flex Tool. For mastering, I mainly use iZotope Ozone plugins to finalize the audio for commercial use.
+
+As an artist myself, I also specialize in branding and promoting. I set up my own brand “Icruyn”, built and promoted my original song “Call It Off” and its music video as debut release, which generated 500k streams in two months; pitched my second release “Run” to Spotify editorial playlist “Electro Mix”. I professionally quickly handle email communication between labels and blogs, and am well-versed in social media, ad analytics, video or photo editing, and confidently picking up new things for work.
+
 
 ```markdown
 Syntax highlighted code block
