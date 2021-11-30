@@ -23,7 +23,7 @@ Original Music Examples
 ### Hold Back -- Pop/Deep House
 
 
-Position: Composer|Producer|Recording, Mixing & Mastering Engineer
+Position: Composer|Producer|Recording,Mixing&Mastering Engineer
 
 
 Sound Design Examples
@@ -37,7 +37,7 @@ Sound Design Examples
 ### Puzzler Video Game
 
 
-Position: Sound Designer|Producer|Mixing & Masstering Engineer
+Position: Sound Designer|Producer|Mixing&Masstering Engineer
 
 
 [Link](url) and ![Image](src)
