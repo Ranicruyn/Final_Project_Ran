@@ -83,7 +83,7 @@ Tecent Music Entertainment -- Product Manager
 
 • Handled, summarized weekly meeting minutes and delivered department emails
 
-<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
+<img src="https://user-images.githubusercontent.com/90212198/145703065-b34548f9-31fb-4267-8436-5291a15b6624.jpg" width="700" height="30" />
 
 Shangbu Primary School -- Teacher  
 05 / 2018 — 08 / 2018
