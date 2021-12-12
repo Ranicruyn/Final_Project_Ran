@@ -63,8 +63,7 @@ Position: • Sound Designer • Producer
 ### Internship
 
 Tecent Music Entertainment -- Product Manager  
-07 / 2021 — 09 / 2021  
-Shenzhen, China
+07 / 2021 — 09 / 2021  Shenzhen, China
 
 • Provided product experience reports of latest worldwide AI music products
 
