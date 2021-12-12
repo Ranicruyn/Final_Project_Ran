@@ -1,4 +1,4 @@
-## This is RAN YI (Icruyn)
+## RAN YI (Icruyn)
 
 Portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and all Berklee gigs.
 
