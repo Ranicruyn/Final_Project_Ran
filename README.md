@@ -4,7 +4,7 @@ All portfolio files can be checked in [the dropbox folder](https://www.dropbox.c
 
 Feel free to check [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) on Spotify for released songs.
 
-https://user-images.githubusercontent.com/90212198/145702158-f21701b6-1faa-449d-b206-65c5d4210055.jpeg
+![Icruyn 8](https://user-images.githubusercontent.com/90212198/145702190-f9eb4822-1962-4207-bf41-95b907b0b095.jpeg)
 
 ### Who is Icruyn?
 
