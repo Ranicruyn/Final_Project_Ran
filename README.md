@@ -4,6 +4,8 @@ All portfolio files can be checked in [the dropbox folder](https://www.dropbox.c
 
 Feel free to check [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) on Spotify for released songs.
 
+https://user-images.githubusercontent.com/90212198/145702158-f21701b6-1faa-449d-b206-65c5d4210055.jpeg
+
 ### Who is Icruyn?
 
 With a knack for deep bass, hypnotic grooves, and instantly memorable melodies, Icruyn is quickly earning a reputation as a thrilling new voice in the world of Deep House. Since debuting with a pair of well-received singles in 2021, the Chinese-born, Boston-based producer has amassed streams in the hundreds of thousands, landed on prominent playlists, and found favor with electronic music aficionados around the world. His sound draws strongly on modern house music while pushing the genre into bold new territory. He continues to evolve as an artist on every new track, revealing himself to be a producer with unlimited potential. With new tracks on the horizon for 2022 and beyond, he is poised to be a fixture of the international Deep House scene for years to come.
