@@ -14,8 +14,6 @@ With a knack for deep bass, hypnotic grooves, and instantly memorable melodies, 
 
 <img src="https://user-images.githubusercontent.com/90212198/145703000-a54df2fe-dbbf-40b5-826f-c5e38c720ba8.jpeg" width="700" height="30" />
 
-https://user-images.githubusercontent.com/90212198/145703399-589c547f-e052-4174-9b45-d8d504ef0a11.mp4
-
 ```markdown
 Original Music Examples:
 
