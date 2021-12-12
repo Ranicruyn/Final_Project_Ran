@@ -93,7 +93,7 @@ Shenzhen, China
 
 • Provided music teachers lessons on drum set recording, processing and mixing on Logic Pro
 
-<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
+<img src="https://user-images.githubusercontent.com/90212198/145703087-af448a54-0203-4965-a600-d3720b13a108.jpg" width="700" height="30" />
 
 Flamingo Music Training Center -- Teacher  
 01 / 2018 — 04 / 2018
