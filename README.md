@@ -2,7 +2,7 @@
 
 Portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and all Berklee gigs.
 
-Feel free to check my spotify [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) for released songs.
+Feel free to check spotify [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) for released songs.
 
 ### Who is Icruyn?
 
@@ -10,44 +10,80 @@ With a knack for deep bass, hypnotic grooves, and instantly memorable melodies, 
 
 
 ```markdown
-Original Music Examples 
+Original Music Examples:
 
-1.[The Ocean] -- Hiphop/Pop
+1.The Ocean
+
+Hiphop / Pop, 10 / 2021 — 11 / 2021, unreleased, Tim Moyo (Vocalist)
+
+2.Shooting Star
+
+Dance / Deep House, 09 / 2021 — 10 / 2021, unreleased, DAKOTA (Vocalist)
+
+3.Hold Back
+
+Pop / Deep House, 06 / 2021 — 07 / 2021, unreleased, Mira Housey (Vocalist)
+
+4.If You
+
+Pop / Jazz, 05 / 2021 — 06 / 2021, unreleased, Mo Han (Vocalist)
+
+5.Run
+
+Pop / Deep House, 03 / 2021 — 04 / 2021, released, Mira Housey (Vocalist)
+
+6.Call It Off
+
+Pop / Slap House, 02 / 2021 — 03 / 2021, released, Lerocque (Vocalist)
+
+Position: • Composer • Producer • Recording Engineer • Sound Designer • Vocal Engineer • Mixing & 
+Mastering Engineer in Berklee EPD Studio
 
 
-2.[Shooting Star] -- Dance/Deep House
+Sound Design Project: ( Ads, Game Soundtrack ):
 
+(1) ‘Droid X’ Advertisement
 
-3.[Hold Back] -- Pop/Deep House
+(2) 2021 Berklee Fashion Show (Intro)
 
+(3) Puzzler Video Game
 
-Position: Composer|Producer|Recording,Mixing&Mastering Engineer
+Position: • Sound Designer • Producer • Mixing & Mastering Engineer in Berklee EPD Studio
 
-
-Sound Design Examples
-
-
-1.['Droid X'Ads]
-
-
-2.[2021 Berklee Fashion Show (Intro)]
-
-
-3.[Puzzler Video Game]
-
-
-Position: Sound Designer|Producer|Mixing&Mastering Engineer
-
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Internship
 
-### Jekyll Themes
+Tecent Music Entertainment | Product Manager 07 / 2021 — 09 / 2021 Shenzhen, China
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ranicruyn/Final_Project_Ran/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+• Provided product experience reports of latest worldwide AI music products
 
-### Support or Contact
+• Interviewed with musicians, recorded the interview process and provided summary reports
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+• Wrote and designed process flow of company’s new AI music product
+
+• Shared music production knowledge and experience in corporate training courses as instructor
+
+• Handled, summarized weekly meeting minutes and delivered department emails
+
+Shangbu Primary School | Teacher 05 / 2018 — 08 / 2018 Shenzhen, China
+
+• Provided music teachers lessons on drum theory, groove arrangement and performance
+
+• Provided music teachers lessons on drum set recording, processing and mixing on Logic Pro
+
+Flamingo Music Training Center | Teacher 01 / 2018 — 04 / 2018 Shenzhen, China 
+
+• Taught teenagers and adults music arrangement, songwriting and music production
+
+• Scheduled and organized daily courses between students and teachers
+
+### Skill
+
+• Digital Audio Workstation: Logic Pro X, Ableton Live, Pro Tools, FL Studio
+
+• Synth Plugin: Serum, Kontakt, Omnisphere, Massive, FM8, Sylenth1
+
+• Audio Plugin: FabFilter, Waves, Melodyne, Autotune, iZotope Ozone, Soundtoys, Valhalla DSP
+
+• Others: Microsoft Office, Google Workspace, Social Media, Adobe Photoshop, Facebook Ads Manager
