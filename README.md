@@ -36,7 +36,8 @@ Pop / Deep House, 03 / 2021 — 04 / 2021, released, Mira Housey (Vocalist)
 
 Pop / Slap House, 02 / 2021 — 03 / 2021, released, Lerocque (Vocalist)
 
-Position: • Composer • Producer • Recording Engineer • Sound Designer • Vocal Engineer • Mixing & Mastering Engineer in Berklee EPD Studio
+Position: • Composer • Producer • Recording Engineer • Sound Designer • Vocal Engineer • Mixing & Mastering 
+Engineer in Berklee EPD Studio
 
 
 Sound Design Project: ( Ads, Game Soundtrack ):
