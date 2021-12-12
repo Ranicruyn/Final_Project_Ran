@@ -1,12 +1,14 @@
 ## RAN YI
 
+<img src="https://user-images.githubusercontent.com/90212198/145702190-f9eb4822-1962-4207-bf41-95b907b0b095.jpeg" width="250" height="250" />
+
 All portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and all Berklee gigs.
 
 Feel free to check [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) on Spotify for released songs.
 
-<img src="https://user-images.githubusercontent.com/90212198/145702190-f9eb4822-1962-4207-bf41-95b907b0b095.jpeg" width="250" height="250" />
-
 ### Who is Icruyn?
+
+<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
 
 With a knack for deep bass, hypnotic grooves, and instantly memorable melodies, Icruyn is quickly earning a reputation as a thrilling new voice in the world of Deep House. Since debuting with a pair of well-received singles in 2021, the Chinese-born, Boston-based producer has amassed streams in the hundreds of thousands, landed on prominent playlists, and found favor with electronic music aficionados around the world. His sound draws strongly on modern house music while pushing the genre into bold new territory. He continues to evolve as an artist on every new track, revealing himself to be a producer with unlimited potential. With new tracks on the horizon for 2022 and beyond, he is poised to be a fixture of the international Deep House scene for years to come.
 
