@@ -62,8 +62,7 @@ Position: • Sound Designer • Producer
 
 ### Internship
 
-Tecent Music Entertainment 
-Product Manager  
+Tecent Music Entertainment -- Product Manager  
 07 / 2021 — 09 / 2021  
 Shenzhen, China
 
@@ -78,8 +77,7 @@ Shenzhen, China
 • Handled, summarized weekly meeting minutes and delivered department emails
 
 
-Shangbu Primary School
-Teacher  
+Shangbu Primary School -- Teacher  
 05 / 2018 — 08 / 2018
 Shenzhen, China
 
@@ -88,8 +86,7 @@ Shenzhen, China
 • Provided music teachers lessons on drum set recording, processing and mixing on Logic Pro
 
 
-Flamingo Music Training Center 
-Teacher  
+Flamingo Music Training Center -- Teacher  
 01 / 2018 — 04 / 2018
 Shenzhen, China 
 
