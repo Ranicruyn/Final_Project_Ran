@@ -1,26 +1,24 @@
-## This is RAN YI
+## This is RAN YI (Icruyn)
 
-Portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and Berklee gigs.
+Portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and all Berklee gigs.
 
 Feel free to check my spotify [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) for released songs.
 
-### Who is RAN?
+### Who is Icruyn?
 
-I am a professional producer and music engineer who specialize in commercial music genre from Hip-hop, Pop to House. Logic Pro, Ableton Live, and Pro Tools are the most commonly used DAWs in my daily life. I take care of every editing of different instrument stem by using Flex Time and Flex Pitch. I utilize FabFilter Pro-Q 3, Pro-C 2, Saturn 2; Ozone Dynamic EQ, Exciter, Imager, Limiter; and popular Waves plugins to handle the processing and mixing of each stem. I utilize Melodyne, Autotune, Little AlterBoy to take care of vocal editing, and sometimes it’s also combined with using Flex Tool. For mastering, I mainly use iZotope Ozone plugins to finalize the audio for commercial use.
-
-As an artist myself, I also specialize in branding and promoting. I set up my own brand “Icruyn”, built and promoted my original song “Call It Off” and its music video as debut release, which generated 500k streams in two months; pitched my second release “Run” to Spotify editorial playlist “Electro Mix”. I professionally quickly handle email communication between labels and blogs, and am well-versed in social media, ad analytics, video or photo editing, and confidently picking up new things for work.
+With a knack for deep bass, hypnotic grooves, and instantly memorable melodies, Icruyn is quickly earning a reputation as a thrilling new voice in the world of Deep House. Since debuting with a pair of well-received singles in 2021, the Chinese-born, Boston-based producer has amassed streams in the hundreds of thousands, landed on prominent playlists, and found favor with electronic music aficionados around the world. His sound draws strongly on modern house music while pushing the genre into bold new territory. He continues to evolve as an artist on every new track, revealing himself to be a producer with unlimited potential. With new tracks on the horizon for 2022 and beyond, he is poised to be a fixture of the international Deep House scene for years to come.
 
 
 ```markdown
 Original Music Examples 
 
-1.The Ocean -- Hiphop/Pop
+1.[The Ocean] -- Hiphop/Pop
 
 
-2.Shooting Star -- Dance/Deep House
+2.[Shooting Star] -- Dance/Deep House
 
 
-3.Hold Back -- Pop/Deep House
+3.[Hold Back] -- Pop/Deep House
 
 
 Position: Composer|Producer|Recording,Mixing&Mastering Engineer
@@ -29,16 +27,16 @@ Position: Composer|Producer|Recording,Mixing&Mastering Engineer
 Sound Design Examples
 
 
-1.'Droid X'Ads
+1.['Droid X'Ads]
 
 
-2.Berklee Fashion Show (Intro)
+2.[2021 Berklee Fashion Show (Intro)]
 
 
-3.Puzzler Video Game
+3.[Puzzler Video Game]
 
 
-Position: Sound Designer|Producer|Mixing&Masstering Engineer
+Position: Sound Designer|Producer|Mixing&Mastering Engineer
 
 
 [Link](url) and ![Image](src)
