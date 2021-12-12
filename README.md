@@ -80,6 +80,7 @@ Tecent Music Entertainment -- Product Manager
 
 • Handled, summarized weekly meeting minutes and delivered department emails
 
+<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
 
 Shangbu Primary School -- Teacher  
 05 / 2018 — 08 / 2018
@@ -89,6 +90,7 @@ Shenzhen, China
 
 • Provided music teachers lessons on drum set recording, processing and mixing on Logic Pro
 
+<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
 
 Flamingo Music Training Center -- Teacher  
 01 / 2018 — 04 / 2018
@@ -98,6 +100,7 @@ Shenzhen, China
 
 • Scheduled and organized daily courses between students and teachers
 
+<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
 
 ### Skill
 
