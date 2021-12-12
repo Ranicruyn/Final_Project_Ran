@@ -66,17 +66,20 @@ Tecent Music Entertainment | Product Manager 07 / 2021 — 09 / 2021 Shenzhen, C
 
 • Handled, summarized weekly meeting minutes and delivered department emails
 
+
 Shangbu Primary School | Teacher 05 / 2018 — 08 / 2018 Shenzhen, China
 
 • Provided music teachers lessons on drum theory, groove arrangement and performance
 
 • Provided music teachers lessons on drum set recording, processing and mixing on Logic Pro
 
+
 Flamingo Music Training Center | Teacher 01 / 2018 — 04 / 2018 Shenzhen, China 
 
 • Taught teenagers and adults music arrangement, songwriting and music production
 
 • Scheduled and organized daily courses between students and teachers
+
 
 ### Skill
 
