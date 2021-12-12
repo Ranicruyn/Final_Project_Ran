@@ -62,6 +62,9 @@ Position: • Sound Designer • Producer
 
 ```
 
+<img src="https://user-images.githubusercontent.com/90212198/145702190-f9eb4822-1962-4207-bf41-95b907b0b095.jpeg" width="250" height="250" />
+
+
 ### Internship
 
 Tecent Music Entertainment -- Product Manager  
