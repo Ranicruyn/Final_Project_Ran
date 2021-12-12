@@ -14,29 +14,42 @@ Original Music Examples:
 
 1.The Ocean
 
-Hiphop / Pop, 10 / 2021 — 11 / 2021, unreleased, Tim Moyo (Vocalist)
+Hiphop / Pop, 10 / 2021 — 11 / 2021
+
+unreleased, Tim Moyo (Vocalist)
 
 2.Shooting Star
 
-Dance / Deep House, 09 / 2021 — 10 / 2021, unreleased, DAKOTA (Vocalist)
+Dance / Deep House, 09 / 2021 — 10 / 2021
+
+unreleased, DAKOTA (Vocalist)
 
 3.Hold Back
 
-Pop / Deep House, 06 / 2021 — 07 / 2021, unreleased, Mira Housey (Vocalist)
+Pop / Deep House, 06 / 2021 — 07 / 2021
+
+unreleased, Mira Housey (Vocalist)
 
 4.If You
 
-Pop / Jazz, 05 / 2021 — 06 / 2021, unreleased, Mo Han (Vocalist)
+Pop / Jazz, 05 / 2021 — 06 / 2021
+
+unreleased, Mo Han (Vocalist)
 
 5.Run
 
-Pop / Deep House, 03 / 2021 — 04 / 2021, released, Mira Housey (Vocalist)
+Pop / Deep House, 03 / 2021 — 04 / 2021
+
+released, Mira Housey (Vocalist)
 
 6.Call It Off
 
-Pop / Slap House, 02 / 2021 — 03 / 2021, released, Lerocque (Vocalist)
+Pop / Slap House, 02 / 2021 — 03 / 2021
 
-Position: • Composer • Producer • Recording Engineer • Sound Designer • Vocal Engineer • Mixing & Mastering 
+released, Lerocque (Vocalist)
+
+Position: • Composer • Producer • Recording Engineer 
+• Sound Designer • Vocal Engineer • Mixing & Mastering 
 Engineer in Berklee EPD Studio
 
 
@@ -48,7 +61,8 @@ Sound Design Project: ( Ads, Game Soundtrack ):
 
 (3) Puzzler Video Game
 
-Position: • Sound Designer • Producer • Mixing & Mastering Engineer in Berklee EPD Studio
+Position: • Sound Designer • Producer 
+• Mixing & Mastering Engineer in Berklee EPD Studio
 
 ```
 
