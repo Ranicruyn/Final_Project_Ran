@@ -62,7 +62,7 @@ Position: • Sound Designer • Producer
 
 ```
 
-<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="500" height="250" />
+<img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="800" height="100" />
 
 
 ### Internship
