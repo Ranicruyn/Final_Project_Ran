@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/90212198/145702190-f9eb4822-1962-4207-bf41-95b907b0b095.jpeg" width="250" height="250" />
 
-All portfolio files can be checked in [the dropbox folder](https://www.dropbox.com/sh/phrx4jbp1aubab0/AAB6BbqchR7Rzmgq-zNitKBOa?dl=0) which include unreleased original songs, sound design projects and all Berklee gigs.
+Check [the portfolio link](www.icruynmusic.com) for all unreleased original songs, music video, sound design projects and Berklee gigs.
 
-Feel free to check [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) on Spotify for released songs.
+Check [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) on Spotify for released songs.
 
 <img src="https://user-images.githubusercontent.com/90212198/145702738-16592754-d2e4-40cd-a373-c0b2ec44b1be.jpg" width="700" height="30" />
 
