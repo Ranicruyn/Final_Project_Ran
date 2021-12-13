@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/90212198/145702190-f9eb4822-1962-4207-bf41-95b907b0b095.jpeg" width="250" height="250" />
 
-Check [Portfolio Link](www.icruynmusic.com) for all unreleased original songs, music video, sound design projects and Berklee gigs.
+Check [Portfolio Link](https://icruynmusic.com/) for all unreleased original songs, music video, sound design projects and Berklee gigs.
 
 Check [Icruyn](https://open.spotify.com/artist/2Jg1j4DtbQY4zLkaQLKh3o) on Spotify for released songs.
 
